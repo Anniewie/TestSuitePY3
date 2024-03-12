@@ -1,0 +1,4 @@
+ddt
+html_reporter
+selenium
+openpyxl
